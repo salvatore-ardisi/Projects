@@ -19,12 +19,6 @@ A simple Tic-Tac-Toe game implemented in Python using the minimax algorithm. The
 2. Follow the on-screen instructions to select the game mode and make moves.
 3. Make your moves by entering the corresponding number for the position on the board.
 
-Example of the game interface:
-- | - | -
-- | - | -
-- | - | -
-
-
 ## Examples and Screenshots
 ![Gameplay Screenshot 1](screenshots/screenshot1.png)
 ![Gameplay Screenshot 2](screenshots/screenshot2.png)
