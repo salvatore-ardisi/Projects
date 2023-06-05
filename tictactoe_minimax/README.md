@@ -26,8 +26,8 @@ Example of the game interface:
 
 
 ## Examples and Screenshots
-![Gameplay Screenshot 1](/screenshots/screenshot1.png)
-![Gameplay Screenshot 2](/screenshots/screenshot2.png)
+![Gameplay Screenshot 1](tictactoe_minimax/screenshots/screenshot1.png)
+![Gameplay Screenshot 2](tictactoe_minimax/screenshots/screenshot2.png)
 
 ## Future Enhancements
 - Player vs. Player mode
